@@ -1,7 +1,6 @@
-function countries() {
-    country = 'Mexico' // Asignación
-    console.log(country)
-}
+const vehicles = [];
+vehicles.push("Ferrari");
+console.log(vehicles);
 
-countries();
-console.log(country)
+vehicles.pop();
+console.log(vehicles);
