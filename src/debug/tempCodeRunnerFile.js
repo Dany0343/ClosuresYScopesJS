@@ -1,0 +1,1 @@
+const scope = "I am global";
